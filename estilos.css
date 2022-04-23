@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 h2 a p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+.row-spacing {
+    padding: 50px;
+}
+
+
+.carousel-text {
+    text-align: center;
+    
+}
+.carousel-text p {
+    font-size: 28px;
+}
+
+
+
+.col-md-6 {
+    display: grid;
+    place-items: center;
+    padding: 0;
+}
+
+
+.pt-4{
+    background-color: #064ab6ff;
+}
+.section-text_left h1 {
+    font-size: 54px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 58px;
+
+}
+.section-text_left p {
+    font-size: 32px;
+    line-height: 40px;
+    margin-top: 36px;
+}
+
+.section-text_right h1 {
+    font-size: 54px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 58px;
+    text-align: right;
+
+}
+.section-text_right p {
+    font-size: 32px;
+    line-height: 40px;
+    margin-top: 36px;
+    text-align: right;
+}
+
+.section-img img {
+    border-radius: 50px;
+}
+
+
+.btn-secondary {
+    background-color: #064ab6ff;
+    border: 12px #064ab6ff;
+}
+.btn-secondary a {
+    color: white;
+}
+.col-btn {
+    text-align: center;
+}
+.btn-secondary:hover {
+    background-color: rgb(42, 90, 167);
+}
+
+.image {
+    position: relative;
+    width: 100%;
+}
+.image-final {
+    display: block;
+    width: 100%;
+}
+.image-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    font-family: "Segoe UI", sans-serif;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.image-title {
+    font-weight: bold;
+    text-shadow: 3px 3px 10px black;
+    margin: 20px;
+}
+
+.image-description {
+    text-shadow: 6px 6px 10px black;
+    margin: 10px;
+}
+.image-overlay .btn-secondary {
+    font-size: 1.3vw;
+    padding: 16px;
+}
