@@ -112,3 +112,9 @@ h1 h2 a p {
     font-size: 1.3vw;
     padding: 16px;
 }
+.footer-section a {
+    font-family: "Segoe UI", sans-serif;
+    text-decoration: none;
+    font-size: 22px;
+}
+
