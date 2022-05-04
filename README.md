@@ -11,3 +11,5 @@ This repository contains the landing page for the EasyClean project
 | Erick Alonso Brocca Hernandez | U201822206 |
 | Jorge Luis Mercado Fassioli | U201811355 |
 | Franchesco Alexis Soto Morales | U201821078 |
+
+Link to landing page: https://easysoftware-wx51.github.io/EasyClean-Landing-Page/
