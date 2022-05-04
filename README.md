@@ -1,9 +1,9 @@
 # EasyClean-Landing-Page
 
 ## Description
-This repository contains the landing page for the llamitaTEC project
+This repository contains the landing page for the EasyClean project
 
-## Llamita Team💻
+## EasySoftware Team💻
 | Nombres y Apellidos | Código de Alumno |
 | :---         |     :---:      |
 | William’s Romero Moran | U201816224 |
