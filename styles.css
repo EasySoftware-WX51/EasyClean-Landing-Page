@@ -136,3 +136,7 @@ h1 h2 a p {
     font-size: 22px;
 }
 
+.logo {
+    width: 40px !important;
+    margin-right: 10px !important;
+}
